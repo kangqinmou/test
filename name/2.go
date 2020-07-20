@@ -8,3 +8,4 @@ const sex = "boy"
 const class = 158
 
 const hello = ""
+const world = ""
