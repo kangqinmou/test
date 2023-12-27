@@ -3,5 +3,5 @@ package test
 import "fmt"
 
 func Hello() {
-	fmt.Println("这是v0.0.4版本")
+	fmt.Println("这是v1.0.0版本")
 }
