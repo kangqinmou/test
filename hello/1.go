@@ -1,7 +1,7 @@
-package test
+package hello
 
 import "fmt"
 
 func Hello() {
-	fmt.Println("这是v2.0.0版本")
+	fmt.Println("这是v1.0.0版本")
 }
